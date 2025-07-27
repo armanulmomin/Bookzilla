@@ -12,6 +12,7 @@ struct BookZillaApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                
         }
     }
 }
