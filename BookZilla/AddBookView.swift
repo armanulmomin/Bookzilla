@@ -65,3 +65,6 @@ struct AddBookView: View {
 }
 
 
+#Preview {
+    AddBookView()
+}
